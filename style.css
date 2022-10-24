@@ -322,4 +322,11 @@ body {
 .tab-list{
   width: 80%;
 }
+  .container {
+  scroll-snap-type: default;
+}
+
+.panel {
+  scroll-snap-align: default;
+}
 }
