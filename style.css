@@ -323,10 +323,10 @@ body {
   width: 80%;
 }
   .container {
-  scroll-snap-type: default;
+  scroll-snap-type: none;
 }
 
 .panel {
-  scroll-snap-align: default;
+  scroll-snap-align: none;
 }
 }
