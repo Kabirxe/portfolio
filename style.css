@@ -123,7 +123,13 @@ body {
   width: 100%;
   text-align: center;
 }
+.p-img img{
+  border: 5px solid white;
+  background: white;
+  clip-path: circle(50% at 50% 50%);
+  box-shadow: 0px 10px 5px rgb(29, 28, 28), 0px -10px 5px rgb(29, 28, 28);
 
+}
 .p-info {
   width: 100%;
   text-align: center;
